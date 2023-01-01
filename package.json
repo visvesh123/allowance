@@ -1,0 +1,24 @@
+{
+  "name": "allowance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visvesh123/allowance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/visvesh123/allowance/issues"
+  },
+  "homepage": "https://github.com/visvesh123/allowance#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "web3": "^1.8.1"
+  }
+}
